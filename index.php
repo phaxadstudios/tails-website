@@ -1,6 +1,4 @@
-<?php
-  include 'paritals/construct.phaxad.php';
-?>
+
 <!DOCTYPE html>
 <html :class="{ 'theme-dark': dark }" x-data="data()" lang="en">
   <head>
@@ -982,3 +980,5 @@
         </p>
     </div>
 </section>
+  </body>
+</html>
