@@ -1,8 +1,15 @@
 
-/** for fonts **/
-body{
-    overflow: hidden;
+
+ /* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+  display: none;
 }
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+} 
 section, div, p, h1, h2, h3, h4, h5, h6{
     font-family: 'Work Sans', sans-serif;
 }
