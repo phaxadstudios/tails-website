@@ -1,7 +1,7 @@
 
 body{
  overflow: hidden;
- width: 100%;
+ width: 100vw;
 }
  /* Hide scrollbar for Chrome, Safari and Opera */
 body::-webkit-scrollbar {
